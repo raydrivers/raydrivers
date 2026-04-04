@@ -1,6 +1,8 @@
-# > [whoami](https://raydrivers.github.io)
+### > [whoami](https://raydrivers.github.io)?
 
-Systems engineer. C, C++, Rust, Zig (*and more*).
+Software engineer.
+C, C++, Rust, Zig (*and more*).
 
-Searching for a hard technical problem worth turning into a product.
+Want to find a hard problem and turn it into a product.
+Reach out to build together!
 
